@@ -2,7 +2,7 @@
   
   "name": "NutTrack",
   "homepage": "https://shreyan67.github.io/NutTrack/",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "scripts": {
@@ -96,7 +96,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
   "devDependencies": {
     "@replit/vite-plugin-cartographer": "^0.0.8",
     "@replit/vite-plugin-runtime-error-modal": "^0.0.3",
